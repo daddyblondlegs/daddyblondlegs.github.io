@@ -9,12 +9,12 @@ tag: [Cycling, featured, Videos]
 Like every year, we have an entire week off work to cycle... or I guess do whatever... This year for China's national holiday, I took the challenge of cycling Shanxi Province from south to north. Having never stepped foot there, it was full of things to check off.
 <p>&nbsp;</p>
 
-<video controls="controls" autoplay="autoplay" muted="muted" poster="https://i9.ytimg.com/vi/Qp5zbqAcgWA/mqdefault.jpg?sqp=CKTMxc0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXShNMA8=&rs=AOn4CLBGrkAcOi2wUgG3d5sakce1yT4ARQ"><source src="https://youtu.be/Qp5zbqAcgWA" type="video/mp4"></video>
+<iframe style="width:100%;" height="315" src="https://youtu.be/Qp5zbqAcgWA" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 
 <p>&nbsp;</p>
 What strikes me about Shanxi Province is that it's China tourism for people who think they've seen it all. Once you hit all the brochure places, you think: "Well, time for the B-rolls", but Shanxi has things I'd recommend over the Great Wall. 
 
-<p><a class="center" href="https://64.media.tumblr.com/e28cd9737a448494ce2ed6e5aedf49c0/0520fd2bb6cb0ceb-a2/s2048x3072/f7f5fa7364c2618b46411864e6710baf5120cc07.jpg"><img class="glightbox" src="https://youtu.be/N38JJqaduUI" alt="" style="width:100%;"></a></p>
+<a class="center" href="https://64.media.tumblr.com/e28cd9737a448494ce2ed6e5aedf49c0/0520fd2bb6cb0ceb-a2/s2048x3072/f7f5fa7364c2618b46411864e6710baf5120cc07.jpg"><img class="glightbox" src="https://youtu.be/N38JJqaduUI" alt="" style="width:100%;"></a>
 
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
@@ -25,9 +25,6 @@ What strikes me about Shanxi Province is that it's China tourism for people who 
 <p>The 580mi (930km) trip hit a lot of top sites, but I usually found things along the way to be more interesting.
 
 Shanxi province literally means “Mountains West” and it borders Shandong province meaning “Mountains East” (Chinese isn’t hard). It also borders Shaanxi to the west, which has the same pronunciation except for the tone (Chinese is hard). I used to live in Xi’an, Shaanxi, and never thought much of the other “Shanxi” until looking through a list of it’s top site. The world’s largest lacquered tower, the haunting stares of Shuanglin Temple’s wooden figures, temples perched on precipices, and the incredibly ornate carvings in Yungang Grottoes. Fortunately they all fall roughly in a line through the valley so I was able to cross the entire province in 9 days and only two mountain passes.</p>
-
-<video width="100%" muted="muted" src="https://youtu.be/N38JJqaduUI" frameborder="0" allowfullscreen></video> 
- 
 
 <div class="row">
   <div class="column2">
