@@ -10,7 +10,7 @@ tags: [China, Cycling, Videos]
 <p>Adventure comes in many shapes and sizes! This one was a weird one. Starting the trip with #1 and then cycling 18,375ft in elevation over 4 days to #2 didn't seem as epic as some of my other trips, yet the weirdness found me!</p>
 <br>
 
-<a class="center" href="https://64.media.tumblr.com/e28cd9737a448494ce2ed6e5aedf49c0/0520fd2bb6cb0ceb-a2/s2048x3072/f7f5fa7364c2618b46411864e6710baf5120cc07.jpg"><img class="glightbox" src="https://youtu.be/Qp5zbqAcgWA" alt="" style="width:100%;"></a>
+<iframe style="width:100%;" height="315" src="https://youtu.be/H4AcSIyHu78?si=kZAZ9VONUgO-bkLR" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 
 <p>
 Wangxian Valley was my #1 because as AI would put it "looked like something straight out of a fairy tale". And though this phrase eats away at me, it's the best way to describe a replica village filling an entire valley. Not just a street with shops selling trinkets and a few "local delicacies", but somewhere you could get lost in.
