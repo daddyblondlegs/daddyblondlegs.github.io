@@ -3,7 +3,7 @@ layout: post
 title:  "Bikepacking China's Jiangxi Mountains"
 categories: [China, Cycling]
 image: https://64.media.tumblr.com/dd62387db8852cb20541c768826ba447/72cd16b23ead2a65-bc/s1280x1920/763e8549e35305f7a0bf8608f4e46822815d3187.jpg
-video: https://youtu.be/H4AcSIyHu78?si=kZAZ9VONUgO-bkLR
+video: https://www.youtube.com/embed/Qp5zbqAcgWA?si=Rf6V8sxmaYVEj42W
 tags: [China, Cycling, Videos]
 ---
 
@@ -12,7 +12,7 @@ tags: [China, Cycling, Videos]
 <section class="pt-4 pb-4" style="justify-content: center;">
     <p>
 
-    </p>
+ </p>
      <div class="flex-wrap justify-content-center m-5 row"> 
         <div class="col text-center">
             <h3>Enjoyment</h3> 
@@ -39,13 +39,11 @@ tags: [China, Cycling, Videos]
 
 <!--Top Cards-->
 <!--Route -->
-
-
 <section style="margin-right: auto;margin-left: auto;">
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-             <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=null&datalayers=9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#8/27.810845/117.372437"></iframe>
+             <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=null#8/27.810845/117.372437"></iframe>
             </div>
             <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
                 <p class="pl-lg-4">
@@ -56,12 +54,13 @@ tags: [China, Cycling, Videos]
     </div>
 </section> 
 
-<iframe style="width:100%;" height="315" src="https://youtu.be/H4AcSIyHu78?si=kZAZ9VONUgO-bkLR" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 
 
 <h2>Magical Fairy Tale Dream World</h2>
 
 After just a couple of hours cycling from the train station, I'd checked off the first of my two-check-mark trip. A village that, as AI would say, "looked like something straight out of a fairy tale". And what better way to describe an entire valley repurposed as an ancient village? From my time in China, I've seen a lot of throwbacks, but this place had *flair*. Aesthetics over accuracy. Draped canvas and hanging gourds just to not be outdone by Disney. A complex of buildings thrown up on the mountainside. These sorts of places command relatively insane prices because a "look at me, I'm in ancient clothes" is a standard feature on every girl's feed.
+
+<iframe width="100%" src="https://www.youtube.com/embed/Qp5zbqAcgWA?si=Rf6V8sxmaYVEj42W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="row">
   <div class="column2">

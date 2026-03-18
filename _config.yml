@@ -4,7 +4,7 @@ description: 'World cyclist who dabbles as an expat. Bike part reviews, travelog
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
 baseurl: 'https://www.daddyblondlegs.com/'
-disqus: 'demowebsite'
+disqus: ''
 email: ''
 mailchimp-list: 
 
@@ -28,7 +28,7 @@ authors:
       name:           Daddy
       site:           
       avatar:         /assets/images/avatar1.jpg
-      bio:            Technophobe gracing tech companies in the Global 500, Fortune 500, a Kickstarter unicorn, and several little dinky places. Bike touring is my sanity factory.
+      bio:            World bike tourist. Got an audiobook. Getting by with bikepacking China.
       email:          
       twitter:        https://twitter.com/daddyblondlegs
  
