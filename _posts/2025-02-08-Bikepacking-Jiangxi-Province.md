@@ -49,11 +49,11 @@ tags: [China, Cycling, Videos]
     <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
         <div class="row gap-y">
             <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
-             <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=null&datalayers=9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#8/27.984688/117.677307"></iframe>
+             <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=null&datalayers=9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#8/27.810845/117.372437"></iframe>
             </div>
             <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
                 <p class="pl-lg-4">
-            Shangrao by train gets you in range of Wangxian Valley. It's hilly making the arc around but flattens out until Longhu Shan. Hilly until hitting a river for a bit, but the final stretch is a big climb. Mostly two-laners. Villages provide basics.
+            To Shangrao by train gets you in range of Wangxian Valley. It's hilly making the arc around but flattens out until Longhu Shan. Hilly until hitting a river for a bit, but the final stretch is a big climb. Mostly two-laners. Villages provide basics.
                 </p> 
             </div>
         </div>
