@@ -55,7 +55,6 @@ tags: [China, Cycling, Videos]
 </section> 
 
 
-
 <h2>Magical Fairy Tale Dream World</h2>
 
 After just a couple of hours cycling from the train station, I'd checked off the first of my two-check-mark trip. A village that, as AI would say, "looked like something straight out of a fairy tale". And what better way to describe an entire valley repurposed as an ancient village? From my time in China, I've seen a lot of throwbacks, but this place had *flair*. Aesthetics over accuracy. Draped canvas and hanging gourds just to not be outdone by Disney. A complex of buildings thrown up on the mountainside. These sorts of places command relatively insane prices because a "look at me, I'm in ancient clothes" is a standard feature on every girl's feed.
