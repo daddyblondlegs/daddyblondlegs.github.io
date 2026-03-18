@@ -7,15 +7,11 @@ video: https://youtu.be/H4AcSIyHu78?si=kZAZ9VONUgO-bkLR
 tags: [China, Cycling, Videos]
 ---
 
-<p>Item #1 on the first day and then nothing until Item #2 a week later? Not sounding like the "Super Epic Totally Awesome Week-long Bikepacking Trip" like <a>some of my others//categories.html#cycling</a>. But the weirdest things happened. Things that I forgot existed.</p>
+<p>Item #1 on Day 1, Item #2 a week later – nothing in between? Not sounding like the "Super Epic Totally Awesome Week-long Bikepacking Trip™" like <a src="//categories.html#cycling">some of my others</a>. But moderately weird things happened. Things you'd say, "I guess it could happen", but also know none of your friends did it.</p>
 <br>
 <section class="pt-4 pb-4" style="justify-content: center;">
     <p>
-                                                                                                        *
-                                                                                                        *
-                                                                                                        *
-                                                                                                        *
-                                                                                                        *
+
     </p>
      <div class="flex-wrap justify-content-center m-5 row"> 
         <div class="col text-center">
@@ -53,7 +49,7 @@ tags: [China, Cycling, Videos]
             </div>
             <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
                 <p class="pl-lg-4">
-            To Shangrao by train gets you in range of Wangxian Valley. It's hilly making the arc around but flattens out until Longhu Shan. Hilly until hitting a river for a bit, but the final stretch is a big climb. Mostly two-laners. Villages provide basics.
+            To Shangrao by train gets you in range of Wangxian Valley. It's hilly making the arc around but flattens out until Longhu Shan. Hills resume until following a river for a bit. Final stretch is a big climb. Roads are mostly two-laners with access to basic supplies. Limited hotels, coffee, bike shops.
                 </p> 
             </div>
         </div>
@@ -63,7 +59,7 @@ tags: [China, Cycling, Videos]
 <iframe style="width:100%;" height="315" src="https://youtu.be/H4AcSIyHu78?si=kZAZ9VONUgO-bkLR" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 
 
-<h2>Fairy Tale Dream World</h2>
+<h2>Magical Fairy Tale Dream World</h2>
 
 After just a couple of hours cycling from the train station, I'd checked off the first of my two-check-mark trip. A village that, as AI would say, "looked like something straight out of a fairy tale". And what better way to describe an entire valley repurposed as an ancient village? From my time in China, I've seen a lot of throwbacks, but this place had *flair*. Aesthetics over accuracy. Draped canvas and hanging gourds just to not be outdone by Disney. A complex of buildings thrown up on the mountainside. These sorts of places command relatively insane prices because a "look at me, I'm in ancient clothes" is a standard feature on every girl's feed.
 
