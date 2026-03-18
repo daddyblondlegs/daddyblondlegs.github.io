@@ -7,8 +7,58 @@ video: https://youtu.be/H4AcSIyHu78?si=kZAZ9VONUgO-bkLR
 tags: [China, Cycling, Videos]
 ---
 
-<p>Item #1 on the first day and then nothing until Item #2 on the fifth day? Not sounding like the "Super Epic Totally Awesome Week-long Bikepacking Trip" like some of my others. But the weirdest things happened. Things that I forgot existed.</p>
+<p>Item #1 on the first day and then nothing until Item #2 a week later? Not sounding like the "Super Epic Totally Awesome Week-long Bikepacking Trip" like <a>some of my others//categories.html#cycling</a>. But the weirdest things happened. Things that I forgot existed.</p>
 <br>
+<section class="pt-4 pb-4" style="justify-content: center;">
+    <p>
+                                                                                                        *
+                                                                                                        *
+                                                                                                        *
+                                                                                                        *
+                                                                                                        *
+    </p>
+     <div class="flex-wrap justify-content-center m-5 row"> 
+        <div class="col text-center">
+            <h3>Enjoyment</h3> 
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="not-dot"></span>
+            <span class="not-dot"></span>
+        </div>
+        <div class="mr-4 ml-4" class="col text-center">
+            <h3>Profile</h3> 
+            <span> 288 mi </span><span style="color:lightgray">(463 km)</span><br>
+            <span>⭧ 18.3k ft⭨ 17.7k ft</span> 
+        </div>
+        <div class="col text-center"> 
+            <h3>Difficulty</h3>
+            <span class="box"></span>
+            <span class="box"></span>
+            <span class="box"></span>
+            <span class="no-box"></span>
+        </div>
+    </div>
+</section> 
+<!--Top Cards--> 
+
+<!--Top Cards-->
+<!--Route -->
+
+
+<section style="margin-right: auto;margin-left: auto;">
+    <div class="row mt-5" style="background-color: #dad2be;padding: 2rem"> 
+        <div class="row gap-y">
+            <div class="col-lg-6 mb-4" style="padding-bottom: 0;"> 
+             <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&measureControl=false&editinosmControl=false&starControl=false&fullscreenControl=null&datalayers=9cc-413d-42b2-8fca-ed6771bf6bb7%2C667a8f22-be72-45cc-8dcc-d5bfdc19df56#8/27.984688/117.677307"></iframe>
+            </div>
+            <div class="col-lg-6 mb-4"><h2 class="mb-3 text-center">The Route</h2>
+                <p class="pl-lg-4">
+            Shangrao by train gets you in range of Wangxian Valley. It's hilly making the arc around but flattens out until Longhu Shan. Hilly until hitting a river for a bit, but the final stretch is a big climb. Mostly two-laners. Villages provide basics.
+                </p> 
+            </div>
+        </div>
+    </div>
+</section> 
 
 <iframe style="width:100%;" height="315" src="https://youtu.be/H4AcSIyHu78?si=kZAZ9VONUgO-bkLR" type="video/mp4" frameborder="0" allowfullscreen></iframe>
 

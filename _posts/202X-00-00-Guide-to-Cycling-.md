@@ -17,34 +17,32 @@ tags: [World Tour, Cycling, Guides]
  <!--Top Cards --> 
 <section class="pt-4 pb-4" style="justify-content: center;">
     <p>
-                                                                                                        *
-                                                                                                        *
-                                                                                                        *
-                                                                                                        *
-                                                                                                        *
-    </p>
-     <div class="flex-wrap justify-content-center m-5 row"> 
-        <div class="col text-center">
+                                                                                                                                                                    *
+                                                                                                                                                                    *                                                    
+    </p>  
+ <div class="flex-wrap justify-content-center mt-3 mb-3 row"> 
+    <div class="col text-center"> 
+        <h3>Difficulty</h3>
+        <span class="box"></span>
+        <span class="half-box"></span>
+        <span class="not-box"></span>
+        <span class="not-box"></span>
+    </div>
+    <div class="mr-4 ml-4 text-center" class="col text-center">
+        <h3>Profile</h3> 
+        <span> mi</span><br>
+        <span>⭧ k ft</span><br>
+        <span>⭨ k ft</span>
+    </div>
+    <div class="col text-center">
             <h3>Enjoyment</h3> 
             <span class="dot"></span>
             <span class="dot"></span>
-            <span class="not-dot"></span>
-            <span class="not-dot"></span>
-        </div>
-        <div class="mr-4 ml-4" class="col text-center">
-            <h3>Profile</h3> 
-            <span> mi </span><span style="color:lightgray">( km)</span><br>
-            <span>⭧ k ft⭨ k ft</span> 
-        </div>
-        <div class="col text-center"> 
-            <h3>Difficulty</h3>
-            <span class="box"></span>
-            <span class="half-box"></span>
-            <span class="not-box"></span>
-            <span class="not-box"></span>
-        </div>
+            <span class="dot"></span>
+            <span class="half-dot"></span>
     </div>
-</section> 
+</div>
+</section>
 <!--Top Cards--> 
 
 <!--Top Cards-->
